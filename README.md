@@ -1,2 +1,1 @@
-# rayver.aimar.15-gmail.com
-Computer Science I
+# Computer Science I
